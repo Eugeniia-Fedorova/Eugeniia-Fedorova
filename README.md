@@ -7,10 +7,10 @@
    <p>Technical Writer from Israel with 6+ years of experience and a passion for explaining things to someone. During that time I have written different types of documentation for several software products. I also have built and filled several knowledge bases using Confluence, Word, etc. And I have 2+ years of experience mentoring another technical writer.</p>
     <div id="badges" align="center">
     <a href="https://github.com/Eugeniia-Fedorova/Portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
     <a href="https://docs.google.com/document/d/1jnecALWWYR4M306CL-3bhmT47gg7dlqcjxWaHsre76c/edit?usp=sharing">
-      <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Resume Badge"/>
+      <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume Badge"/>
     </a>
     </div>
     <div id="badges" align="center">
